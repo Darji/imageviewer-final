@@ -258,6 +258,7 @@ public class ImageViewer
         filterList.add(new RedChannel("Red Channel"));
         filterList.add(new GreenChannel("Green Channel"));
         filterList.add(new BlueChannel("Blue Channel"));
+        filterList.add(new WarHol("WarHol"));
        
         return filterList;
     }
